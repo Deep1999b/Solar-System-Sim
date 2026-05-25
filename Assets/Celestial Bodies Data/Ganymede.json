@@ -1,0 +1,16 @@
+{
+  "name": "Ganymede",
+  "type": "Moon",
+  "mass_10e24_kg": 0.1482,
+  "diameter_km": 5268.0,
+  "distance_from_sun_10e6_km": 778.6,
+  "orbital_period_days": 7.155,
+  "rotation_period_hours": 171.7,
+  "gravity_m_s2": 1.428,
+  "mean_temp_c": -163.0,
+  "moons": 0,
+  "orbital_velocity_km_s": 10.88,
+  "escape_velocity_km_s": 2.74,
+  "composition": "Rock and Water Ice (Differentiated)",
+  "atmospheric_pressure": "Trace"
+}

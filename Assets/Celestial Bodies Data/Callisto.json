@@ -1,0 +1,16 @@
+{
+  "name": "Callisto",
+  "type": "Moon",
+  "mass_10e24_kg": 0.1076,
+  "diameter_km": 4821.0,
+  "distance_from_sun_10e6_km": 778.6,
+  "orbital_period_days": 16.689,
+  "rotation_period_hours": 400.5,
+  "gravity_m_s2": 1.235,
+  "mean_temp_c": -139.0,
+  "moons": 0,
+  "orbital_velocity_km_s": 8.20,
+  "escape_velocity_km_s": 2.44,
+  "composition": "Mixed Rock and Water Ice",
+  "atmospheric_pressure": "Trace"
+}

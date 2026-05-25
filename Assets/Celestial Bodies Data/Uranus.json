@@ -1,0 +1,16 @@
+{
+  "name": "Uranus",
+  "type": "Planet",
+  "mass_10e24_kg": 86.8,
+  "diameter_km": 51118.0,
+  "distance_from_sun_10e6_km": 2872.5,
+  "orbital_period_days": 30589.0,
+  "rotation_period_hours": -17.2,
+  "gravity_m_s2": 8.7,
+  "mean_temp_c": -195.0,
+  "moons": 28,
+  "orbital_velocity_km_s": 6.8,
+  "escape_velocity_km_s": 21.3,
+  "composition": "Ice Giant (H, He, CH4)",
+  "atmospheric_pressure": "1 bar (ref)"
+}

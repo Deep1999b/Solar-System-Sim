@@ -1,0 +1,16 @@
+{
+  "name": "Mercury",
+  "type": "Planet",
+  "mass_10e24_kg": 0.33,
+  "diameter_km": 4879.0,
+  "distance_from_sun_10e6_km": 57.9,
+  "orbital_period_days": 88.0,
+  "rotation_period_hours": 1407.6,
+  "gravity_m_s2": 3.7,
+  "mean_temp_c": 167.0,
+  "moons": 0,
+  "orbital_velocity_km_s": 47.4,
+  "escape_velocity_km_s": 4.3,
+  "composition": "Rocky (Silicates and Metals)",
+  "atmospheric_pressure": "Trace"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Charon",
+  "type": "Moon",
+  "mass_10e24_kg": 0.001586,
+  "diameter_km": 1212.0,
+  "distance_from_sun_10e6_km": 5906.4,
+  "orbital_period_days": 6.387,
+  "rotation_period_hours": 153.3,
+  "gravity_m_s2": 0.288,
+  "mean_temp_c": -220.0,
+  "moons": 0,
+  "orbital_velocity_km_s": 0.21,
+  "escape_velocity_km_s": 0.59,
+  "composition": "55% Rock, 45% Water Ice",
+  "atmospheric_pressure": "None"
+}

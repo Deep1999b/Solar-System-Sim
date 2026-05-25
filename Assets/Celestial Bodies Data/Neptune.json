@@ -1,0 +1,16 @@
+{
+  "name": "Neptune",
+  "type": "Ice Giant",
+  "mass_10e24_kg": 102.0,
+  "diameter_km": 49528.0,
+  "distance_from_sun_10e6_km": 4495.1,
+  "orbital_period_days": 60190.0,
+  "rotation_period_hours": 16.1,
+  "gravity_m_s2": 11.15,
+  "mean_temp_c": -201.0,
+  "moons": 14,
+  "orbital_velocity_km_s": 5.43,
+  "escape_velocity_km_s": 23.5,
+  "composition": "Ice Giant (Water, Ammonia, Methane ices)",
+  "atmospheric_pressure": ">> 1000 bar"
+}

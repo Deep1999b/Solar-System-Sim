@@ -1,0 +1,16 @@
+{
+  "name": "Europa",
+  "type": "Moon",
+  "mass_10e24_kg": 0.0480,
+  "diameter_km": 3122.0,
+  "distance_from_sun_10e6_km": 778.6,
+  "orbital_period_days": 3.551,
+  "rotation_period_hours": 85.2,
+  "gravity_m_s2": 1.314,
+  "mean_temp_c": -160.0,
+  "moons": 0,
+  "orbital_velocity_km_s": 13.74,
+  "escape_velocity_km_s": 2.02,
+  "composition": "Rocky core, Icy crust, Subsurface ocean",
+  "atmospheric_pressure": "Trace"
+}

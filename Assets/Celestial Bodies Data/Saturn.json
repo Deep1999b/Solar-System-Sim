@@ -1,0 +1,16 @@
+{
+  "name": "Saturn",
+  "type": "Planet",
+  "mass_10e24_kg": 568.0,
+  "diameter_km": 120536.0,
+  "distance_from_sun_10e6_km": 1433.5,
+  "orbital_period_days": 10747.0,
+  "rotation_period_hours": 10.7,
+  "gravity_m_s2": 9.0,
+  "mean_temp_c": -140.0,
+  "moons": 146,
+  "orbital_velocity_km_s": 9.7,
+  "escape_velocity_km_s": 35.5,
+  "composition": "Gas Giant (H, He)",
+  "atmospheric_pressure": "1 bar (ref)"
+}

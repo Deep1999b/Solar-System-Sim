@@ -1,0 +1,16 @@
+{
+  "name": "Moon",
+  "type": "Moon",
+  "mass_10e24_kg": 0.07346,
+  "diameter_km": 3475.0,
+  "distance_from_sun_10e6_km": 149.6,
+  "orbital_period_days": 27.3,
+  "rotation_period_hours": 655.7,
+  "gravity_m_s2": 1.62,
+  "mean_temp_c": -20.0,
+  "moons": 0,
+  "orbital_velocity_km_s": 1.022,
+  "escape_velocity_km_s": 2.38,
+  "composition": "Rocky (Silicates)",
+  "atmospheric_pressure": "Trace"
+}

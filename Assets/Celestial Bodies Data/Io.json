@@ -1,0 +1,16 @@
+{
+  "name": "Io",
+  "type": "Moon",
+  "mass_10e24_kg": 0.0893,
+  "diameter_km": 3643.0,
+  "distance_from_sun_10e6_km": 778.6,
+  "orbital_period_days": 1.769,
+  "rotation_period_hours": 42.5,
+  "gravity_m_s2": 1.796,
+  "mean_temp_c": -143.0,
+  "moons": 0,
+  "orbital_velocity_km_s": 17.33,
+  "escape_velocity_km_s": 2.56,
+  "composition": "Rocky (Silicates and Sulfur)",
+  "atmospheric_pressure": "Trace"
+}

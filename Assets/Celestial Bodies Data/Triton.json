@@ -1,0 +1,16 @@
+{
+  "name": "Triton",
+  "type": "Moon",
+  "mass_10e24_kg": 0.0214,
+  "diameter_km": 2707.0,
+  "distance_from_sun_10e6_km": 4495.1,
+  "orbital_period_days": -5.877,
+  "rotation_period_hours": 141.0,
+  "gravity_m_s2": 0.779,
+  "mean_temp_c": -235.0,
+  "moons": 0,
+  "orbital_velocity_km_s": 4.39,
+  "escape_velocity_km_s": 1.45,
+  "composition": "Rock core, Water ice mantle, Nitrogen ice crust",
+  "atmospheric_pressure": "Trace"
+}

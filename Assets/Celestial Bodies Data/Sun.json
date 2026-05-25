@@ -1,0 +1,16 @@
+{
+  "name": "Sun",
+  "type": "Star",
+  "mass_10e24_kg": 1988500.0,
+  "diameter_km": 1392700.0,
+  "distance_from_sun_10e6_km": 0.0,
+  "orbital_period_days": 0.0,
+  "rotation_period_hours": 609.12,
+  "gravity_m_s2": 274.0,
+  "mean_temp_c": 5500.0,
+  "moons": 0,
+  "orbital_velocity_km_s": 220.0,
+  "escape_velocity_km_s": 617.7,
+  "composition": "73% Hydrogen, 25% Helium",
+  "atmospheric_pressure": "0.868 mb"
+}

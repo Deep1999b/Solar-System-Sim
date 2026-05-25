@@ -1,0 +1,16 @@
+{
+  "name": "Phobos",
+  "type": "Moon",
+  "mass_10e24_kg": 1.0659e-8,
+  "diameter_km": 22.2,
+  "distance_from_sun_10e6_km": 227.9,
+  "orbital_period_days": 0.3189,
+  "rotation_period_hours": 7.65,
+  "gravity_m_s2": 0.0057,
+  "mean_temp_c": -40.0,
+  "moons": 0,
+  "orbital_velocity_km_s": 2.138,
+  "escape_velocity_km_s": 0.0113,
+  "composition": "Carbonaceous Chondrite (C-type)",
+  "atmospheric_pressure": "None"
+}
